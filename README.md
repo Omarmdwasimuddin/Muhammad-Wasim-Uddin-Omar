@@ -1,9 +1,7 @@
 <h1 align="center">Hi, I'm Muhammad Wasim Uddin Omar 👋</h1>
 
 <p align="center">
-  🚀 Web Developer | Next.js | React.js | Prisma | Node.js | WordPress | Shopify <br/>
-  💡 Passionate about building scalable web apps & automation <br/>
-  🎯 Learning advanced Next.js 
+I'm a passionate Web Developer with Next.js, React.js, Prisma, Node.js, WordPress, and Shopify expertise. I love building scalable web apps that provide great user experiences. To expand my skill set, I'm currently diving into advanced Next.js. Let's build something amazing together!
 </p>
 
 ---
