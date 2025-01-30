@@ -3,7 +3,7 @@
 <p align="center">
   🚀 Web Developer | Next.js | React.js | Prisma | Node.js | WordPress | Shopify <br/>
   💡 Passionate about building scalable web apps & automation <br/>
-  🎯 Learning advanced Next.js & automation tools
+  🎯 Learning advanced Next.js 
 </p>
 
 ---
@@ -30,10 +30,10 @@
 
 ### 📫 Connect with Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/muhammadwasimuddin/">
+  <a href="https://www.linkedin.com/in/muhammad-wasim-uddin-omar-6a6541218/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:your-mdwasimu015@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p> 
